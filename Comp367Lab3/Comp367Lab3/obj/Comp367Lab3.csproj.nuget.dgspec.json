@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ashley\\Desktop\\Centennial Courses\\Year 3\\Semester 3\\DevOps Implementation\\Lab 3\\Comp367Lab3\\Comp367Lab3\\Comp367Lab3.csproj": {}
+    "C:\\Users\\Ashley\\Desktop\\Centennial Courses\\Year 3\\Semester 3\\DevOps Implementation\\Lab 2\\Question2\\Comp367Lab3\\Comp367Lab3\\Comp367Lab3\\Comp367Lab3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ashley\\Desktop\\Centennial Courses\\Year 3\\Semester 3\\DevOps Implementation\\Lab 3\\Comp367Lab3\\Comp367Lab3\\Comp367Lab3.csproj": {
+    "C:\\Users\\Ashley\\Desktop\\Centennial Courses\\Year 3\\Semester 3\\DevOps Implementation\\Lab 2\\Question2\\Comp367Lab3\\Comp367Lab3\\Comp367Lab3\\Comp367Lab3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ashley\\Desktop\\Centennial Courses\\Year 3\\Semester 3\\DevOps Implementation\\Lab 3\\Comp367Lab3\\Comp367Lab3\\Comp367Lab3.csproj",
+        "projectUniqueName": "C:\\Users\\Ashley\\Desktop\\Centennial Courses\\Year 3\\Semester 3\\DevOps Implementation\\Lab 2\\Question2\\Comp367Lab3\\Comp367Lab3\\Comp367Lab3\\Comp367Lab3.csproj",
         "projectName": "Comp367Lab3",
-        "projectPath": "C:\\Users\\Ashley\\Desktop\\Centennial Courses\\Year 3\\Semester 3\\DevOps Implementation\\Lab 3\\Comp367Lab3\\Comp367Lab3\\Comp367Lab3.csproj",
+        "projectPath": "C:\\Users\\Ashley\\Desktop\\Centennial Courses\\Year 3\\Semester 3\\DevOps Implementation\\Lab 2\\Question2\\Comp367Lab3\\Comp367Lab3\\Comp367Lab3\\Comp367Lab3.csproj",
         "packagesPath": "C:\\Users\\Ashley\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ashley\\Desktop\\Centennial Courses\\Year 3\\Semester 3\\DevOps Implementation\\Lab 3\\Comp367Lab3\\Comp367Lab3\\obj\\",
+        "outputPath": "C:\\Users\\Ashley\\Desktop\\Centennial Courses\\Year 3\\Semester 3\\DevOps Implementation\\Lab 2\\Question2\\Comp367Lab3\\Comp367Lab3\\Comp367Lab3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
